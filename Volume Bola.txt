@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+const float pi=3.14;
+main()
+{
+	printf("Nama	: Muhammad Hanif Insani \n");
+	printf("NPM	: 197006006 \n");
+	printf("Kelompok: 4 \n");
+	float r,v;
+	printf("Program Menghitung Volume Bola \n");
+	printf(" \n");
+	printf("Masukkan Jari-jari Bola (cm):");
+	scanf("%f",&r);
+	v=4*pi*(r*r*r)/3;
+	printf(" \n");
+	printf("Jadi Volume Bola tersebut adalah=%.2f\n",v);
+}
