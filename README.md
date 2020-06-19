@@ -1,2 +1,2 @@
-# Latihan
-repository pertama saya untuk pembahasan bahasa C
+# UAS Praktikum Alstruk
+repository Bahasa C
